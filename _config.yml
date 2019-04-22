@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
+title:               jden redden
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://jden.me
 paginate:            1
-baseurl:             ""
+baseurl:             https://jden.me
 
 # Assets
 #
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              jden redden
+  url:               https://twitter.com/jden
+  email:             iam@jden.me
 
 # Custom vars
 version:             2.0.0
